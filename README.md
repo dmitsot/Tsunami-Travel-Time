@@ -14,6 +14,7 @@ The notebook is designed to be both accessible and flexible: users can input loc
 
 Disclaimer. This code is not intended to predict or forecast tsunami events. The computed results are approximate and rely on simplifying assumptions, such as idealized wave propagation and the quality of the input data. Consequently, the estimated arrival times should be interpreted as indicative rather than definitive, and they should be used with caution.
 
-<img width="1360" height="1035" alt="tsunami_travel_time_simple" src="https://github.com/user-attachments/assets/6a6e4205-d76a-429b-8048-bcac4235be7d" />
+![tsunami_travel_time_simple](https://github.com/user-attachments/assets/882aef26-47c7-4d34-8f95-5de1723beb57)
 
-<img width="1693" height="1180" alt="tsunami_travel_time" src="https://github.com/user-attachments/assets/1c632a1b-e53e-4829-8c15-56edc54465ea" />
+![tsunami_travel_time](https://github.com/user-attachments/assets/b42a48ea-d207-49c8-b244-2d092ec86fad)
+
