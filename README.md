@@ -1,6 +1,6 @@
 # Tsunami Travel Time
 
-This Jupyter notebook provides a practical framework for computing tsunami travel-time isolines and estimating the arrival time of a tsunami at a given location. By leveraging the capabilities of the scikit-fmm module, it efficiently solves the underlying eikonal equation that governs wavefront propagation.
+This Jupyter notebook provides a practical framework for computing tsunami travel-time isolines and estimating the arrival time of a tsunami at a given location. By using the capabilities of the scikit-fmm module, it efficiently solves the underlying eikonal equation that estimates wavefront propagation.
 
 The arrival time or travel time is the time taken for the leading edge (or wavefront) of the tsunami to travel from the origin, such as an undersea earthquake, to a given point of interest. This is what the notebook computes when solving the underlying propagation problem.
 
