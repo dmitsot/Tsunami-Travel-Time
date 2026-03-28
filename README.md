@@ -1,6 +1,6 @@
 # Tsunami Travel Time
 
-This Jupyter notebook provides a practical framework for computing tsunami travel-time isolines and estimating the arrival time of a tsunami at a given location. By using the capabilities of the scikit-fmm module, it efficiently solves the underlying eikonal equation that estimates wavefront propagation. This implementation is based on the fast marching method proposed by James Sethian for solving boundary value problems of the Eikonal equation. (For more information see "J.A. Sethian. A Fast Marching Level Set Method for Monotonically Advancing Fronts, Proc. Natl. Acad. Sci., 93, 4, pp.1591--1595, 1996").
+This Jupyter notebook provides a practical framework for computing tsunami travel-time isolines and estimating the arrival time of a tsunami at a given location. By using the capabilities of the scikit-fmm module, it efficiently solves the underlying eikonal equation that estimates wavefront propagation. This implementation is based on the fast marching method proposed by James Sethian for solving boundary value problems of the Eikonal equation. (For more information see "J.A. Sethian. A Fast Marching Level Set Method for Monotonically Advancing Fronts, Proc. Natl. Acad. Sci., 93, 4, pp.1591-1595, 1996").
 
 The arrival time or travel time is the time taken for the leading edge (or wavefront) of the tsunami to travel from the origin, such as an undersea earthquake, to a given point of interest. This is what the notebook computes when solving the underlying propagation problem.
 
