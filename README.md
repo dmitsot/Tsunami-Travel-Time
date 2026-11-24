@@ -16,5 +16,5 @@ Disclaimer. This code is not intended to predict or forecast tsunami events. The
 
 ![tsunami_travel_time_simple](https://github.com/user-attachments/assets/882aef26-47c7-4d34-8f95-5de1723beb57)
 
-![tsunami_travel_time](https://github.com/user-attachments/assets/b42a48ea-d207-49c8-b244-2d092ec86fad)
+![tsunami_travel_time](https://github.com/dmitsot/Tsunami-Travel-Time/blob/main/tsunami_travel_time.png)
 
